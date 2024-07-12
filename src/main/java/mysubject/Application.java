@@ -1,4 +1,4 @@
-package MySubject.Run;
+package mysubject;
 
 import java.util.Scanner;
 

@@ -4,68 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b163b30-2073-4eb2-b4b6-834a1cf8204a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../mySubject1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/src/main/java/MySubject/Run/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/src/main/java/MySubject/Run/CardView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/src/main/java/MySubject/Run/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/src/main/java/MySubject/Run/VGADTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/java_Subject/src/main/java/MySubject/Run/VGAmanagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/mySubject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/MySubject/Run/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/MySubject/Run/CardView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/MySubject/Run/Store.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/MySubject/Run/VGADTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/MySubject/Run/VGAmanagement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/test/TestApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/test/TestDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/test/TestMG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/test/TestStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mySubject1/out/production/mySubject/test/Testview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백업/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백업/CardView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백업/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백업/VGADTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백업/VGAmanagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../membermanagement" beforeDir="false" afterPath="$PROJECT_DIR$/../membermanagement" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/.idea/java_Subject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/src/main/java/MySubject/Run/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/src/main/java/MySubject/Run/VGADTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/src/main/java/MySubject/Run/VGAmanagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_Subject/src/main/java/MySubject/Run/VgaCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mySubject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mySubject/MySubject/Run/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mySubject/MySubject/Run/VGADTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mySubject/MySubject/Run/VGAmanagement.class" beforeDir="false" />
+    <list default="true" id="0e295a17-b6d0-408c-a03f-8023d8ae9adb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section01/intro/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection01/generation/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection01/generation/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection02/intermediate/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection02/intermediate/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection02/intermediate/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection02/intermediate/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection03/terminal/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection03/terminal/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection03/terminal/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection03/terminal/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section02/uses/subsection03/terminal/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mysubject/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mysubject/CardView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mysubject/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mysubject/VGADTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mysubject/VGAmanagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section01/intro/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap17-stream-lecture-source/src/main/java/com/ohgeraffers/section01/intro/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySubject/java_Subject/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mySubject/java_Subject/.idea/material_theme_project_new.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,10 +40,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KimHoDong"
+  }
 }]]></component>
-  <component name="ProjectId" id="2j6RMU8xAbpj11PYNoiEYtqhoeV" />
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KimHoDong/Java.git",
+    "accountId": "cc11b2a7-6e8e-442d-a98a-e4edecd71504"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2j8Dq50537nX5p7tRDH3VTh2IL1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -93,29 +65,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/myWs/mysubject2/src/main/java/mysubject",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MySubject.Run.Application" />
-      <module name="mySubject.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MySubject.Run.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Application" />
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\myWs\mysubject2\src\main\java\mysubject" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -128,12 +89,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b163b30-2073-4eb2-b4b6-834a1cf8204a" name="Changes" comment="" />
-      <created>1720705493613</created>
+      <changelist id="0e295a17-b6d0-408c-a03f-8023d8ae9adb" name="Changes" comment="" />
+      <created>1720759998752</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1720705493613</updated>
-      <workItem from="1720705494640" duration="5000" />
+      <updated>1720759998752</updated>
+      <workItem from="1720759999805" duration="71000" />
     </task>
     <servers />
   </component>

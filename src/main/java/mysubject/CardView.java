@@ -1,4 +1,4 @@
-package MySubject.Run;
+package mysubject;
 
 public class CardView {
     public void displayMessage(String s) {
